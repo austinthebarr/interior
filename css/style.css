@@ -1,4 +1,4 @@
-.compare {
+div {
   width: 30%;
   float: left;
   margin-right: 20px;
@@ -6,4 +6,22 @@
 }
 img {
   width: 100%;
+}
+div.compare1 {
+  background-color: #ccddff;
+  border: 5px solid #e6eeff;
+  padding: 5px;
+  margin: 5px;
+}
+div.compare2 {
+  background-color: #99b9ff;
+  border: 5px solid #e6eeff;
+  padding: 5px;
+  margin: 5px;
+}
+div.compare3 {
+  background-color: #6696ff;
+  border: 5px solid #e6eeff;
+  padding: 5px;
+  margin: 5px;
 }
